@@ -1,6 +1,6 @@
 UpdateDiscord|`9[`2UPDATE AVAILABLE``]``
-NewDiscord|`9[`cDiscord:`` `^.silvestras69``]``
-ConsoleMessage|`9[`^silviozas.com``]``
+NewDiscord|`9[`cDiscord:`` `^pushmov``]``
+ConsoleMessage|`9[`^venetra.win``]``
 Discord|`9[`2UPDATE AVAILABLE``]``
 ItemList|https://silviozas.com/images/GT_Items_List_by_silvestras696969.txt
 ClothesList|https://silviozas.com/images/Clothes_List.txt
