@@ -4,5 +4,5 @@ Build|1
 Version|1.13
 HashKey|vkInsKhdY7na52m9dn2ja6da
 
-GrowtopiaVersion|5.02
+GrowtopiaVersion|5.03
 GrowtopiaProtocol|211
