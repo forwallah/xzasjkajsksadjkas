@@ -1,8 +1,8 @@
 ------------------------- VENETRA -------------------------
 
 Build|1
-Version|1.14
+Version|1.15
 HashKey|vkInsKhdY7na52m9dn2ja6da
 
 GrowtopiaVersion|5.03
-GrowtopiaProtocol|211
+GrowtopiaProtocol|213
