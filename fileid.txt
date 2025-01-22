@@ -1,189 +1,34 @@
 UpdateDiscord|`9[`2UPDATE AVAILABLE``]``
-NewDiscord|`9[`cDiscord:`` `^.silvestras69``]``
+NewDiscord|`9[`cDiscord:`` `^pushmov``]``
 ConsoleMessage|`9[`^venetra.win``]``
 Discord|`9[`2UPDATE AVAILABLE``]``
 ItemList|https://silviozas.com/images/GT_Items_List_by_silvestras696969.txt
-ClothesList|https://silviozas.com/images/Clothes_List.txt
-Growtopiam_server|213.179.209.168
-Port|17182|17185|17187|17186|17181
-Spoofprotocol|200
-SpoofFZ|53930024
-SpoofZF|-397602690
-Spooffhash|-716928004
-SpoofMeta|6e7TFxJ57F1AWAX2bWxL3DTbzrClbkK8UDoSHpVGFwc=
-Name|Silviozas Premium Proxy
-BigText|`wOfficial Casino `9Since 2016`` `8HUFHOST``
-SmallText|<CR>`9Type `2/huf`` To Join The Newest `8HUFHOST`` Casino Link.``<CR><CR>`3Discord:```w discord.gg/hufhost      `#@INSTAGRAM:`` @HUFHOST<CR>`1FACEBOOK:`` HUFHOST                 `4YouTube:`` Skrudzas<CR>`^More information at:`` www.hufhost.com
-SecondID|KraboSaugotojas
-Captcha|2
-Latestdiscord|https://discord.gg/TAsgcjcaxX
-HostsFile|https://silviozas.com/images/hosts
-GrowtopiaOffset|30750180
+	
 GrowtopiaFont|https://silviozas.com/images/Gt_font_40px.png
 itemsdatBackup|https://silviozas.com/images/items.dat
 newitemsdatBackup|https://silviozas.com/images/a3F9Vsa_compressed_items.dat
-#OLDGrowtopiaPattern_FPS_1|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
-GrowtopiaPattern_FPS|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
+GrowtopiaPattern_FPS|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
 NewRPC_ID|1212821462436552775
 GenerateKLV|0
 GenerateKLV2|0
 GenerateKLV3|0
 MemorySearchKLV|0
 
-LatestProxyVersion|3.86
-LatestProxyVersionLink|https://discord.com/channels/1090514532922826852/1090522208801140817
-
-
 KLV1|e9fc40ec08f9ea6393f59c65e37f750aacddf68490c4f92d0d2523a5bc02ea63
 KLV2|c85df9056ee603b849a93e1ebab5dd5f66e1fb8b2f4a8caef8d13b9f9e013fa4
 KLV3|3ca373dffbf463bb337e0fd768a2f395b8e417475438916506c721551f32038d
-KLV4|73eff5914c61a20a71ada81a6fc7780700fb1c0285659b4899bc172a24c14fc1
-
-We.bTaxWorld|MARTICINIS
-WebTaxWorld|BLACKASAS
-ServerTaxWorld|BLACKASAS
-ServerGTversion|4.43
-
-BasePrice|10000
-AllowPurchase|1
-
-PGTserver|193.108.200.216
-PGTport|17725
-
-PGT|proxy.silviozas.com|17723
-PGT|proxy.silviozas.com|17724
-PGT|193.108.200.216|17725
-
-_ProxyVersion|3.8591
-_ProxyUpdateMessage|
-_HelloMessage|`2New Silviozas Premium Proxy Discord Server:`` `#discord.gg/TAsgcjcaxX``
-_IsUnderMaintenance|0
-_MaintenanceMessage|`wProxy is put under maintenance.```2 Fixing Login stuff.
-
-
-FunFact|`b[`9Fun Fact``]`` `cYou Can Change Your `5Country Flag`` With A Command `5"/country"``.
-FunFact|`b[`9Fun Fact``]`` `cFirst Premium Proxy V1 Was Released For A Cost Of `51 Diamond Lock.
-FunFact|`b[`9Fun Fact``]`` `cYou Might `bNot`` Know.
-FunFact|`b[`9Fun Fact``]`` `cYou Might Know.
-FunFact|`b[`9Fun Fact``]`` `cThis Proxy Creator Is A Very Busy Man.
-FunFact|`b[`9Fun Fact``]`` `cThis Proxy Creator [`^.silvestras69``]`` Is The Most Trusted Person.
-FunFact|`b[`9Fun Fact``]`` `cThe Owner Of `2GTPS 4``, `$Lapada`` Is `4Not`` A Person You Should Trust. He Scammed over `5$1 Million`` worth of BGLS In Just `57 Months``!
-FunFact|`b[`9Fun Fact``]`` `cThe Owner Of `2GTPS 4``, `$Lapada`` Is Known To Be The Most Trusted Person In Growtopia Industry, But Scammed `5$1 Million`` worth of BGLS And `bNoone`` Knows About It!
-FunFact|`b[`9Fun Fact``]`` `cThe Owner Of `2GTPS 4``, `$Lapada`` Is `4Not Trusted``!
-FunFact|`b[`9Fun Fact``]`` `cYou Can Find Secret Commands In This Proxy.
-FunFact|`b[`9Fun Fact``]`` `cIf You Mess Up Writting `5"/warp"`` and write `5"/wrap"``, nothing will happen.
-FunFact|`b[`9Fun Fact``]`` `cIf You Have `5100DL`` In The Inventory And Wrench A `5Telephone``, You Will Instantly Convert To `51 BGL``!
-FunFact|`b[`9Fun Fact``]`` `cCommand `5"/daw"`` Drops All Your `5World Locks``, `5Diamond Locks`` And `5Blue Gem Locks``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can See `2Official Growtopia News Gazette`` By Typing `5"/gazette"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Turn Off `9Fun Facts`` By Typing `5"/options" And Turning Off `9"Show Fun Facts"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Go To Any World That You Own By Typing `5"/worlds"`` Or `5"/myworlds"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Turn Off `9Show `2REAL``/`4FAKE`` Spin`` By Typing `5"/options"`` And Turing Off `9"Show Real/Fake Spin"``.
-FunFact|`b[`9Fun Fact``]`` `cThe Owner Of This Proxy Is Actually `bVery Poor``.
-FunFact|`b[`9Fun Fact``]`` `cIn 2021 April 1st There Were Only `92 Premium Proxy Users``.
-FunFact|`b[`9Fun Fact``]`` `cIn 2021 October 7th There Were Only `9180 Premium Proxy Users``.
-FunFact|`b[`9Fun Fact``]`` `cIn 2021 January 27th Silviozas Premium Proxy Discord Server Just Reached `51,000 Members``!
-FunFact|`b[`9Fun Fact``]`` `cThis Premium Proxy Is Used By Many Casino Hosters Around The World!
-FunFact|`b[`9Fun Fact``]`` `cThe Owner Of This Proxy Has A `5Pretty Dog``.
-FunFact|`b[`9Fun Fact``]`` `cThe Owner Of This Proxy Was A Hoster For `51,5 Year`` In `5HUF HOST CASINO``.
-FunFact|`b[`9Fun Fact``]`` `cMacau Proxy Users Were The First Hosters With Visual Clothes.
-FunFact|`b[`9Fun Fact``]`` `cOwner Has A Youtube Channel `5Welbow Balanc``.
-FunFact|`b[`9Fun Fact``]`` `cIf You Type `5"/fakeban"`` More Than Once, Something Might Happen :o 
-FunFact|`b[`9Fun Fact``]`` `cYou Can Fast Rejoin A World By Typing `5"/relog"``.
-FunFact|`b[`9Fun Fact``]`` `cThis Proxy Has A `2FREE Built-In Growscan``. Type `5"/items"`` Or `5"/growscan"`` To Use It!
-FunFact|`b[`9Fun Fact``]`` `cYou Might One Day Be A `2Millionaire``.
-FunFact|`b[`9Fun Fact``]`` `cPremium Proxy Discord Server Is Created Only For Premium Proxy Users.
-FunFact|`b[`9Fun Fact``]`` `cIf You Ever Reset Your PC To Factory Settings, The Proxy `4HWID Changes`` And It Will Cost `5FULL PRICE`` To Reset It.
-FunFact|`b[`9Fun Fact``]`` `cPremium Proxy V1 Was First Created In `52021 April 1st``!
-FunFact|`b[`9Fun Fact``]`` `cYou Can Give Access To World Lock With A Command `5"/give [GrowID]"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Give Access To Everyone In The World With A Command `5"/accessall"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Have To Go To The `4Gym``!
-FunFact|`b[`9Fun Fact``]`` `cIf You Don't Have A Gym, Then You Can Start Lifting Your Bed And Be `4STRONG``!
-FunFact|`b[`9Fun Fact``]`` `cYou Forgot To Drink `eWater``!
-FunFact|`b[`9Fun Fact``]`` `cYou Can `5Right Click`` To Fast Kick A Person - `5"/wrench"``.
-FunFact|`b[`9Fun Fact``]`` `cA `5Blue Gem Lock`` Is Actually Worth `510,000 World Locks``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Save Proxy Settings By Writting `5"/keep"`` Or `5"/settings"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Enable Wear Visual Clothes By Writting `5"/clothes"`` And Searching For Any Item You Want With `5"/find"``.
-FunFact|`b[`9Fun Fact``]`` `cYou Didn't Touch `2Grass`` For A Long Time. 
-FunFact|`b[`9Fun Fact``]`` `cYou Can See All Proxy Commands By Writting `5"/news"`` Or `5"/proxy"``.
-FunFact|`b[`9Fun Fact``]`` `c`5.silvestras69`` Is The Real Premium Proxy Owner Discord.
-FunFact|`b[`9Fun Fact``]`` `cYou Might Need To Go `3Outside`` And Get Some `9Sun``.
-FunFact|`b[`9Fun Fact``]`` `cThe Universe Is Expanding, But Not Your Brain :(
-FunFact|`b[`9Fun Fact``]`` `cYou Forgot To Do Some Pushups Today And You Should Do Some Now!
-FunFact|`b[`9Fun Fact``]`` `cThe Weather Is `4Warmer`` In `4Summer`` Than In `1Winter``.
-FunFact|`b[`9Fun Fact``]`` `cPeople With Silviozas Premium Proxy Make `2More Money`` Than Without Proxy.
-FunFact|`b[`9Fun Fact``]`` `cAutocollect In Proxy Has A `2Smart Function`` Where Every Item Has A `2Cooldown Timer``.
-FunFact|`b[`9Fun Fact``]`` `cYou Can Type `2"/fps"`` To Unlock Up To `2480fps``.
-FunFact|`b[`9Fun Fact``]`` `cYou Must Not Drink Less Than 2 Litres Of Water Every Day``.
-FunFact|`b[`9Fun Fact``]`` `cThere Are A Lot Of Fake Accounts Impersonating The Owner.
-FunFact|`b[`9Fun Fact``]`` `c`4Work`` Is `9Key`` To `2Success``.
-FunFact|`b[`9Fun Fact``]`` `c`4Never Stop`` Doing What You `2Like`` In `9Life``.
-FunFact|`b[`9Fun Fact``]`` `cDon't `1Cry`` Over A `#Girl``.
-FunFact|`b[`9Fun Fact``]`` `cIf You Won't `2Start``, Nothing Will `9Change``.
-FunFact|`b[`9Fun Fact``]`` `cStop Eating `9Junk Food`` And Start `2Excercising``!
-FunFact|`b[`9Fun Fact``]`` `cTreat Others With `9Respect``!
-FunFact|`b[`9Fun Fact``]`` `cIf You Put Your Mind To It, You Could Achieve Anything``!
-
-AUTOCOMPLETE|DERBY|0|20y48|49y34
-AUTOCOMPLETE|WOLFWORLD_1|700|78d34|80d27|69x15
-AUTOCOMPLETE|WOLFWORLD_2|800|41x51|71d30|82d31|##adventure_door&button1|10x12
-AUTOCOMPLETE|WOLFWORLD_3|700|74x26|72x25|32x4|8x49
-AUTOCOMPLETE|WOLFWORLD_4|1000|6p3|25d4|##adventure_door&button1|26d2|26h6|51p11|54d3|##adventure_door&button0|86p2|57d3|##adventure_door&button0|14p43|33d34|##adventure_door&button1|50x30
-AUTOCOMPLETE|WOLFWORLD_5|1000|17x4|1d1|38x24|43x5|63x11
-AUTOCOMPLETE|WOLFWORLD_6|1000|15x41|77x42
-AUTOCOMPLETE|WOLFWORLD_7|700|31p2|42d42|64x46
-AUTOCOMPLETE|WOLFWORLD_8|1000|46x57|23x7|33p2|5x15|=d6x15|48p13|64x1|=d65x1|92x14|=p92x13|68d22|##adventure_door&button1|99x39
-AUTOCOMPLETE|WOLFWORLD_9|1000|64p46|51d49|##adventure_door&button0|0p18|6d13|18x7
-AUTOCOMPLETE|CLASHPARKOUR_*|1000|64p22|71x24|=d72x24|47p25|33d27|20p20|7x15
-
-AUTOCOOKRECIPE|Berry Crepes|4596|4562-0|874-0|868-26700|196-40000|4572-1|4572-1|18-60000|
-AUTOCOOKRECIPE|Apple Strudel|4594|676-0|956-23300|874-23300|3836-1|4568-1|4572-1|4572-1|18-83000|
-AUTOCOOKRECIPE|Gemonade|6914|822-0|4984-0|4666-38000|7000-38000|4572-1|4572-1|4572-1|18-40000|
-AUTOCOOKRECIPE|Arroz Con Pollo|4604|3472-0|4602-33700|4588-33700|962-70000|4568-1|4570-1|4570-1|18-100000|
-AUTOCOOKRECIPE|Eggs Benedict|1474|4562-0|874-0|4586-10000|868-26000|4568-1|18-60000|
-AUTOCOOKRECIPE|BBQ Bacon Burger|4598|4580-0|956-6300|4586-16300|962-36300|4564-65000|4568-1|4570-1|4572-1|18-66000|
-AUTOCOOKRECIPE|Gingerbread Cookie|5452|5416-0|3836-1|874-20000|4610-30000|5376-63000|18-80000|
-AUTOCOOKRECIPE|Gingerbread Man|5414|5416-0|3836-1|874-20000|4610-30000|5376-63000|4572-1|4572-1|18-80000|
-AUTOCOOKRECIPE|Beer-Battered Fish And Chips|4600|540-0|4562-0|3428-0|3468-87000|4568-1|4570-1|18-120000|
-AUTOCOOKRECIPE|Chocolate Bunny|5984|874-0|4610-10000|5376-44000|4624-50000|4572-1|4572-1|18-60000|
-AUTOCOOKRECIPE|Hot Chocolate|3240|822-0|4610-0|3836-1|868-16000|4624-40000|4572-1|4572-1|4572-1|18-50000|
-AUTOCOOKRECIPE|Chocolate Easter Bilby|9456|8064-0|4610-10000|5376-44000|4624-50000|4572-1|4572-1|18-60000|
-
-**NEWS_START**
-add_spacer|small|
-add_image_button|DiscordServer|interface/large/ProxyUpdate_Banner.rttex|bannerlayout|https://discord.gg/aUw4Jp6kGF|Do You Want To Open `2Premium Proxy Discord`` Server?|
-add_image_button|banner_openlink_https://discord.com/channels/815293778410733598/928995109125652480|interface/large/383_ClickProxyUpdateBanner.rttex|bannerlayout|||
-add_spacer|small|
-add_label_with_icon|small|`wOfficial Casino `9Since 2016`` `8HUFHOST``|left|756|
-add_image_button|banner_input_/huf|interface/large/Advertisement.rttex|bannerlayout|||
-
-**NEWS_3.84_START**
-add_spacer|small|
-add_image_button|DiscordServer|interface/large/384_ProxyUpdateBanner.rttex|bannerlayout|https://discord.gg/TAsgcjcaxX|Do You Want To Open `2Premium Proxy Discord`` Server?|
-add_spacer|small|
-add_smalltext|`2New `9Silviozas Premium Proxy V3.85`` Update Is Available Now!|
-add_spacer|small|
-add_label_with_icon|small|`wOfficial Casino `9Since 2016`` `8HUFHOST``|left|756|
-add_image_button|banner_input_/huf|interface/large/Advertisement.rttex|bannerlayout|||
-**NEWS_3.84_END**
-
+	
 **NEWS_3.85_START**
 #add_image_button|DiscordServer|interface/large/385_ProxyUpdateBanner.rttex|bannerlayout|https://discord.gg/TAsgcjcaxX|Do You Want To Open `2Premium Proxy Discord`` Server?|
 add_spacer|small|
-#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyt/world|interface/large/Advertisement.rttex|2imageslayout|||
-#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teambj/world|interface/large/Advertisement2.rttex|2imageslayout|||
-#add_image_button|banner_openlink_https://www.instagram.com/teamjustore|interface/large/Advertisement.rttex|2imageslayout|||
-#add_image_button|banner_openlink_https://www.instagram.com/teamendstore|interface/large/Advertisement2.rttex|2imageslayout|||
+add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyt/world|interface/large/Advertisement.rttex|2imageslayout|||
+add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teambj/world|interface/large/Advertisement2.rttex|2imageslayout|||
 #add_spacer|small|
-#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyon/world|interface/large/TeamYonAdvert.rttex|bannerlayout|||
-#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamresky/world|interface/large/TeamReskyBanner.rttex|bannerlayout|||
-#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamocta/world|interface/large/TeamOctaAdvert.rttex|bannerlayout|||
+add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyon/world|interface/large/TeamYonAdvert.rttex|bannerlayout|||
 #add_smalltext|`8*Paid Advertisements*|
 #TEAMJU_May_1_______5BGL
 #TEAM_YT_PIK__July_28_5BGL
 #TEAM_YON_____July_28_4BGL
-#CtR_INSTAGRAM___November_12__15BGL
-#kepalanegara_CASINO_TEAM_OCTA__November_20__5BGL
-#billylie12__CASINO_TEAM_RESKY__January_2____9BGL
 **NEWS_3.85_END**
 
 AddCommandAsWarpWorld|ju|http://91.109.117.48:15461/teamju/world|Warps To TEAMJU Casino Link World
@@ -191,37 +36,23 @@ AddCommandAsWarpWorld|shon|http://91.109.117.48:15461/teamshon/world|Warps To TE
 AddCommandAsWarpWorld|yt|http://91.109.117.48:15461/teamyt/world|Warps To TEAMYTGT   (BJ Team)   Casino Link World
 AddCommandAsWarpWorld|pik|http://91.109.117.48:15461/teambj/world|Warps To TEAMPIK_GT (REME Team) Casino Link World
 AddCommandAsWarpWorld|yon|http://91.109.117.48:15461/teamyon/world|Warps To TEAM_YON Casino Link World
-AddCommandAsWarpWorld|octa|http://91.109.117.48:15461/teamocta/world|Warps To TEAM_OCTA Casino Link World
-AddCommandAsWarpWorld|resky|http://91.109.117.48:15461/teamresky/world|Warps To TEAM_RESKY Casino Link World
 
 Rttex|Welcome_Banner.rttex|https://silviozas.com/images/proxy/RTTEX/Welcome_Banner.rttex
 Rttex|385_ProxyUpdateBanner.rttex|https://silviozas.com/images/proxy/RTTEX/385_ProxyUpdateBanner.rttex
-#Rttex|Advertisement.rttex|https://silviozas.com/images/REME_TEAM_YT.rttex
-#Rttex|Advertisement2.rttex|https://silviozas.com/images/REME_TEAM_BJ.rttex
-Rttex|Advertisement.rttex|https://silviozas.com/images/StoreAdvert1.rttex
-Rttex|Advertisement2.rttex|https://silviozas.com/images/StoreAdvert2.rttex
+Rttex|Advertisement.rttex|https://silviozas.com/images/REME_TEAM_YT.rttex
+Rttex|Advertisement2.rttex|https://silviozas.com/images/REME_TEAM_BJ.rttex
 Rttex|TeamYonAdvert.rttex|https://silviozas.com/images/TeamYonAdvert.rttex
-Rttex|TeamReskyBanner.rttex|https://silviozas.com/images/TeamReskyBanner.rttex
-Rttex|TeamOctaAdvert.rttex|https://silviozas.com/images/TeamOcta_Advertisement2.rttex
 Rttex|400x260_WorldOptions.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_WorldOptions.rttex
 Rttex|400x260_ProxyCommands.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_ProxyCommands.rttex
 Rttex|400x260_FreeGrowscan.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_FreeGrowscan.rttex
-Rttex|400x260_CountryChanger.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_CountryChanger.rttex
-Rttex|400x260_WrenchOptions.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_WrenchOptions.rttex
-Rttex|400x260_VendingPage.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_VendingPage.rttex
-Rttex|400x260_OptionsPage.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_OptionsPage.rttex
+	
 Rttex|400x260_Hotkeys.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_Hotkeys.rttex
 Rttex|400x260_FreeExtractOSnap.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_FreeExtractOSnap.rttex
 Rttex|400x260_ProxySettings.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_ProxySettings.rttex
-Rttex|400x260_ProxyLogs.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_ProxyLogs.rttex
-Rttex|400x260_RenderWorld.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_RenderWorld.rttex
 Rttex|100x100_ProxyIcon_Cursed.rttex|https://silviozas.com/images/proxy/RTTEX/100x100_ProxyIcon_Cursed.rttex
 Rttex|Proxy5Tabs.rttex|https://silviozas.com/images/ProxyTabsfinished.rttex
 
-**START**
-
-Live|
-Skrudzas|
+	
 staska|
 omg|
 
