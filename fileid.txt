@@ -1,5 +1,5 @@
 UpdateDiscord|`9[`2UPDATE AVAILABLE``]``
-NewDiscord|`9[`cDiscord:`` `^pushmov``]``
+NewDiscord|`9[`cDiscord:`` `^.silvestras69``]``
 ConsoleMessage|`9[`^venetra.win``]``
 Discord|`9[`2UPDATE AVAILABLE``]``
 ItemList|https://silviozas.com/images/GT_Items_List_by_silvestras696969.txt
@@ -22,12 +22,17 @@ GrowtopiaOffset|30750180
 GrowtopiaFont|https://silviozas.com/images/Gt_font_40px.png
 itemsdatBackup|https://silviozas.com/images/items.dat
 newitemsdatBackup|https://silviozas.com/images/a3F9Vsa_compressed_items.dat
-GrowtopiaPattern_FPS|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
+#OLDGrowtopiaPattern_FPS_1|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
+GrowtopiaPattern_FPS|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
 NewRPC_ID|1212821462436552775
 GenerateKLV|0
 GenerateKLV2|0
 GenerateKLV3|0
 MemorySearchKLV|0
+
+LatestProxyVersion|3.86
+LatestProxyVersionLink|https://discord.com/channels/1090514532922826852/1090522208801140817
+
 
 KLV1|e9fc40ec08f9ea6393f59c65e37f750aacddf68490c4f92d0d2523a5bc02ea63
 KLV2|c85df9056ee603b849a93e1ebab5dd5f66e1fb8b2f4a8caef8d13b9f9e013fa4
@@ -164,14 +169,21 @@ add_image_button|banner_input_/huf|interface/large/Advertisement.rttex|bannerlay
 **NEWS_3.85_START**
 #add_image_button|DiscordServer|interface/large/385_ProxyUpdateBanner.rttex|bannerlayout|https://discord.gg/TAsgcjcaxX|Do You Want To Open `2Premium Proxy Discord`` Server?|
 add_spacer|small|
-add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyt/world|interface/large/Advertisement.rttex|2imageslayout|||
-add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teambj/world|interface/large/Advertisement2.rttex|2imageslayout|||
+#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyt/world|interface/large/Advertisement.rttex|2imageslayout|||
+#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teambj/world|interface/large/Advertisement2.rttex|2imageslayout|||
+#add_image_button|banner_openlink_https://www.instagram.com/teamjustore|interface/large/Advertisement.rttex|2imageslayout|||
+#add_image_button|banner_openlink_https://www.instagram.com/teamendstore|interface/large/Advertisement2.rttex|2imageslayout|||
 #add_spacer|small|
-add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyon/world|interface/large/TeamYonAdvert.rttex|bannerlayout|||
+#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamyon/world|interface/large/TeamYonAdvert.rttex|bannerlayout|||
+#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamresky/world|interface/large/TeamReskyBanner.rttex|bannerlayout|||
+#add_image_button|banner_warp_to_world_from_link_input_http://91.109.117.48:15461/teamocta/world|interface/large/TeamOctaAdvert.rttex|bannerlayout|||
 #add_smalltext|`8*Paid Advertisements*|
 #TEAMJU_May_1_______5BGL
 #TEAM_YT_PIK__July_28_5BGL
 #TEAM_YON_____July_28_4BGL
+#CtR_INSTAGRAM___November_12__15BGL
+#kepalanegara_CASINO_TEAM_OCTA__November_20__5BGL
+#billylie12__CASINO_TEAM_RESKY__January_2____9BGL
 **NEWS_3.85_END**
 
 AddCommandAsWarpWorld|ju|http://91.109.117.48:15461/teamju/world|Warps To TEAMJU Casino Link World
@@ -179,12 +191,18 @@ AddCommandAsWarpWorld|shon|http://91.109.117.48:15461/teamshon/world|Warps To TE
 AddCommandAsWarpWorld|yt|http://91.109.117.48:15461/teamyt/world|Warps To TEAMYTGT   (BJ Team)   Casino Link World
 AddCommandAsWarpWorld|pik|http://91.109.117.48:15461/teambj/world|Warps To TEAMPIK_GT (REME Team) Casino Link World
 AddCommandAsWarpWorld|yon|http://91.109.117.48:15461/teamyon/world|Warps To TEAM_YON Casino Link World
+AddCommandAsWarpWorld|octa|http://91.109.117.48:15461/teamocta/world|Warps To TEAM_OCTA Casino Link World
+AddCommandAsWarpWorld|resky|http://91.109.117.48:15461/teamresky/world|Warps To TEAM_RESKY Casino Link World
 
 Rttex|Welcome_Banner.rttex|https://silviozas.com/images/proxy/RTTEX/Welcome_Banner.rttex
 Rttex|385_ProxyUpdateBanner.rttex|https://silviozas.com/images/proxy/RTTEX/385_ProxyUpdateBanner.rttex
-Rttex|Advertisement.rttex|https://silviozas.com/images/REME_TEAM_YT.rttex
-Rttex|Advertisement2.rttex|https://silviozas.com/images/REME_TEAM_BJ.rttex
+#Rttex|Advertisement.rttex|https://silviozas.com/images/REME_TEAM_YT.rttex
+#Rttex|Advertisement2.rttex|https://silviozas.com/images/REME_TEAM_BJ.rttex
+Rttex|Advertisement.rttex|https://silviozas.com/images/StoreAdvert1.rttex
+Rttex|Advertisement2.rttex|https://silviozas.com/images/StoreAdvert2.rttex
 Rttex|TeamYonAdvert.rttex|https://silviozas.com/images/TeamYonAdvert.rttex
+Rttex|TeamReskyBanner.rttex|https://silviozas.com/images/TeamReskyBanner.rttex
+Rttex|TeamOctaAdvert.rttex|https://silviozas.com/images/TeamOcta_Advertisement2.rttex
 Rttex|400x260_WorldOptions.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_WorldOptions.rttex
 Rttex|400x260_ProxyCommands.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_ProxyCommands.rttex
 Rttex|400x260_FreeGrowscan.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_FreeGrowscan.rttex
@@ -195,6 +213,8 @@ Rttex|400x260_OptionsPage.rttex|https://silviozas.com/images/proxy/RTTEX/400x260
 Rttex|400x260_Hotkeys.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_Hotkeys.rttex
 Rttex|400x260_FreeExtractOSnap.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_FreeExtractOSnap.rttex
 Rttex|400x260_ProxySettings.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_ProxySettings.rttex
+Rttex|400x260_ProxyLogs.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_ProxyLogs.rttex
+Rttex|400x260_RenderWorld.rttex|https://silviozas.com/images/proxy/RTTEX/400x260_RenderWorld.rttex
 Rttex|100x100_ProxyIcon_Cursed.rttex|https://silviozas.com/images/proxy/RTTEX/100x100_ProxyIcon_Cursed.rttex
 Rttex|Proxy5Tabs.rttex|https://silviozas.com/images/ProxyTabsfinished.rttex
 
