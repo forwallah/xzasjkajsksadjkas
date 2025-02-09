@@ -1,6 +1,6 @@
 Build|1
 Version|1.18
-HashKey|vkalwıNGLdbJNElovSE2990
+HashKey|vkalwiNGLdbJNElovSE2990
 
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
