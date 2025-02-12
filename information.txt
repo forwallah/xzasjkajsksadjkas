@@ -5,4 +5,4 @@ HashKey|vkalwiNGLdbJNElovSE2990
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
 
-velocity|https://files.catbox.moe/hts38o.dll
+velocity|https://files.catbox.moe/s70pju.dll
