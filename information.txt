@@ -5,4 +5,4 @@ HashKey|vkalwiNGLdbJNElovSE2990
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
 
-velocity|https://venetra.win/assets/velocity.dll?__cf_chl_tk=RJNBQxdjh601WmLsdTmViIRA._sIsnOgrsUzJxNWawc-1739392226-1.0.1.1-_VSUM81PpcSoEtO8zrBR7BWx8HqGaYyG6GHjO3CRlug
+velocity|https://store-eu-par-3.gofile.io/download/web/c951d054-ef8a-4f30-b282-055aebb70737/velocity.dll
