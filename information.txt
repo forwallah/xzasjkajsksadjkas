@@ -5,4 +5,4 @@ HashKey|vkalwiNGLdbJNElovSE2990
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
 
-velocity|https://store-eu-par-3.gofile.io/download/web/c951d054-ef8a-4f30-b282-055aebb70737/velocity.dll
+velocity|https://files.catbox.moe/hh2xdy.dll
