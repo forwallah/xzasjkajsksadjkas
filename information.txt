@@ -1,5 +1,5 @@
 Build|1
-Version|1.18
+Version|1.19
 
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
