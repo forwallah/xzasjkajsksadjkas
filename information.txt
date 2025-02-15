@@ -1,8 +1,7 @@
 Build|1
 Version|1.18
-HashKey|vkalwiNGLdbJNElovSE2990
 
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
 
-velocity|https://files.catbox.moe/l4ltzs.dll
+HashKey|cHJvdG9jb2w9MDE==
