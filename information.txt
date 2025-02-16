@@ -1,7 +1,7 @@
 Build|1
-Version|1.19
+Version|1.2
 
 GrowtopiaVersion|5.06
 GrowtopiaProtocol|214
 
-HashKey|cHJvdG9jb2w9MDE==
+HashKey|VkVORVRSQS1QUk9UT0tFWS0xODMwMQ==
